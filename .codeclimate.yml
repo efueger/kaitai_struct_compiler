@@ -1,0 +1,10 @@
+engines:
+  fixme:
+    enabled: true
+  scalastyle:
+    enabled: true
+    channel: "beta"
+ratings:
+  paths:
+  - "**.scala"
+exclude_paths: []
